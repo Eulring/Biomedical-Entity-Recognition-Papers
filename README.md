@@ -60,6 +60,8 @@ Linking___ [[paper](https://www.ijcai.org/proceedings/2022/0560.pdf)]
 
 - 2022 ___CODER: Knowledge infused cross-lingual medical term embedding for term normalization___ [[paper](https://arxiv.org/pdf/2011.02947.pdf)] __CODER__
 
+## NER with LLM
+- 2023 ___Gpt-ner: Named entity recognition via large language models___ [[paper](https://arxiv.org/pdf/2304.10428)]
 
 ## Dataset
 
