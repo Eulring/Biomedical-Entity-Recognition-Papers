@@ -24,6 +24,8 @@ collection of paper and resource for biomedical entity recognition and linking
 - 2019 ___TENER: Adapting Transformer Encoder for Named Entity Recognition___ [[papr](https://arxiv.org/pdf/1911.04474.pdf,)]
 
 ## Biomedical Named Entity Recognition
+- 2023 ___AIONER: all-in-one scheme-based biomedical named entity recognition using deep learning___ [[paper](https://academic.oup.com/bioinformatics/article/39/5/btad310/7160912)]
+
 - 2021 ___HunFlair: an easy-to-use tool for state-of-the-art biomedical named entity recognition___ [[paper](https://academic.oup.com/bioinformatics/article/37/17/2792/6122692)]
 
 - 2020 ___HUNER: improving biomedical NER with pretraining___ [[paper](https://gfzpublic.gfz-potsdam.de/rest/items/item_4362895_6/component/file_5012701/content)] __HUNER__
